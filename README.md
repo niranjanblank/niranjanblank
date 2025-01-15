@@ -34,19 +34,12 @@ I’m particularly skilled in creating performant and scalable systems and love 
 - **[Flappy Bird AI](https://github.com/your-repo-link):** A Flappy Bird game with AI trained using the NEAT algorithm.  
 - **[Airbnb NYC Data Analysis](https://github.com/your-repo-link):** Exploratory data analysis and machine learning for NYC Airbnb listings.  
 
----
 
-## 🔧 Currently Working On:
-- 🌟 Developing **Git from scratch**  
-- ⚡ A **matchmaking server simulator** in Go  
-- 🖥️ A **plug-and-play NAS system** using Golang  
-
----
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=niranjanblank&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=niranjanblank&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanblank&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://komarev.com/ghpvc/?username=niranjanblank&color=blue)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanblank&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
