@@ -48,6 +48,4 @@ I’m particularly skilled in creating performant and scalable systems and love 
 - 📚 I’m an avid reader of light novels.  
 - 💻 I enjoy solving coding challenges on **[LeetCode](https://leetcode.com/u/niranjanblank/)**.  
 
----
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
