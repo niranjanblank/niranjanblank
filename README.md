@@ -15,10 +15,7 @@ I’m particularly skilled in creating performant and scalable systems and love 
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niranjan-shah)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://niranjanshah.com.np)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niranjanblank)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%230C0C0C.svg?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/niranjanblank/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niranjan-shah) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://niranjanshah.com.np)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niranjanblank)  [![LeetCode](https://img.shields.io/badge/LeetCode-%230C0C0C.svg?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/niranjanblank/)
 
 ---
 
@@ -29,7 +26,10 @@ I’m particularly skilled in creating performant and scalable systems and love 
 
 
 ## 📂 Featured Projects:
-- **[Flow](https://github.com/your-repo-link):** A Trello-like task management system built with FastAPI and Next.js.  
+- **[Flow Frontend](https://github.com/niranjanblank/flow_frontend):** Frontend for a Trello-like task management system built with Next.js.  
+- **[Flow Backend](https://github.com/niranjanblank/flow_backend):** Backend for Flow, developed using FastAPI.  
+- **[LeetCode Practice](https://github.com/niranjanblank/LeetCodePractice):** A repository of my solutions to various LeetCode problems.  
+- **[BitTorrent Client](https://github.com/niranjanblank/bittorrrent_client):** A project to build a BitTorrent client in C++.  
 - **[Easy Mario](https://github.com/your-repo-link):** A Mario-like platformer game developed in C using SDL2.  
 - **[Flappy Bird AI](https://github.com/your-repo-link):** A Flappy Bird game with AI trained using the NEAT algorithm.  
 - **[Airbnb NYC Data Analysis](https://github.com/your-repo-link):** Exploratory data analysis and machine learning for NYC Airbnb listings.  
@@ -45,7 +45,7 @@ I’m particularly skilled in creating performant and scalable systems and love 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=niranjanblank&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=niranjanblank&theme=dark&hide_border=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=niranjanblank&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanblank&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
